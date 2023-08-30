@@ -14,14 +14,10 @@
     <type fullname="MaterialHouseViewer2D.StageLayerSet" preserve="nothing" serialized="true" />
     <type fullname="MaterialHouseViewer2D.SubPatternData" preserve="nothing" serialized="true" />
     <type fullname="MaterialHouseViewer2D.ViewData" preserve="nothing" serialized="true" />
-    <type fullname="MaterialHouseViewer2D.ViewDataAddition" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
     <type fullname="UnityEngine.AddressableAssets.AssetReferenceSprite" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[MaterialHouseViewer2D.CategoryData_SObj]" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[MaterialHouseViewer2D.HouseViewsData_SObj]" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[MaterialHouseViewer2D.StagesData_SObj]" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
